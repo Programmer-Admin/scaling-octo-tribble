@@ -1,0 +1,4 @@
+watchdog
+boto3
+python-dotenv
+configparser==5.0.2
