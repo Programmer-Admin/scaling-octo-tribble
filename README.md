@@ -31,7 +31,6 @@ cd your_repository
 
 ```
 MONITORED_DIRECTORY=/path/to/monitored/directory
-ZIP_FILE=/path/to/output/zip/file.zip
 ```
 3. Build the Docker image:
 ```bash
